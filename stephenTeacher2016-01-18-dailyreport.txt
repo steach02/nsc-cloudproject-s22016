@@ -1,0 +1,6 @@
+1 what was done
+  prototyped home screens, user logins, photo captures and started code merge
+2 problems 
+  github difficulties need more research/ tutorial would be nice
+3 todo
+  talk to db team  continue prototyping
