@@ -1,0 +1,6 @@
+What i did for this report?
+for this report we finished code merge and started working on bugs. more specificaly we handled an issue with the camera and not being able to press back, as well as started to restructure or fragments for better communication between fragments
+what will i do for the next report?
+for the next report we will continue working on the fragments
+what probles did i run into?
+no big problems we just neede to do more research on the fragments and how they should be set up
