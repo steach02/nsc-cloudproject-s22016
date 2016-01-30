@@ -1,0 +1,8 @@
+What did i do for this report?
+for this report we continued work on fragments 
+
+what will i do for the next report?
+for the next report i will finish fragment work then restyle the edit text screen
+
+what issues did we run into?
+our master copy was accidently copied over so tobin spent time recovering the code.
