@@ -1,0 +1,13 @@
+What did i do?
+standerdized listview item sizes
+populated thumbnails 
+fixed both add button bugs
+code merg
+
+
+what will i do?
+reset positioning for tags on click
+start translator class
+
+any problems?
+none
