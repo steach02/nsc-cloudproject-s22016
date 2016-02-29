@@ -1,0 +1,8 @@
+What did i do?
+track down fragment SavedInstance State bug
+
+What will i Do? 
+Fix SavedInstanceState bug
+
+any problems?
+personal problems made finding time for the project hard
